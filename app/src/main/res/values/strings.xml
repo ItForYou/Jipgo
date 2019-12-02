@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">집고</string>
+    <string name="url">http://www.jipgo.co.kr</string>
+    <string name="domain">http://www.jipgo.co.kr</string>
+</resources>
